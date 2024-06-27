@@ -5,6 +5,19 @@
 
 This page provides the links to the source code of the game-based platforms for AI research, corresponding research papers, and competitions collected in our survey paper "Games for Artificial Intelligence Research: A Review and Perspectives". 
 
+Please use this bibtex if you want to cite our work:
+
+````
+@article{hu2024games,
+  title={Games for Artificial Intelligence Research: A Review and Perspectives},
+  author={Hu, Chengpeng and Zhao, Yunlong and Wang, Ziqi and Liu, Jialin},
+  journal={IEEE Transactions on Artificial Intelligence},
+  pages={accepted},
+  year={2024},
+  publisher={IEEE}
+}
+````
+
 
 ## Playing Games by AI (Section III)
 
